@@ -1,6 +1,8 @@
-# 文書の例
+# 鶴見大学ソフトウェアセミナー
 
-## 文書かな?
+## AtCoder 
 
-文書だよ．
+* [利用準備](atcoder/prepare)
+* [入出力](atcoder/inout)
+
 
